@@ -206,7 +206,6 @@ The system monitors AQI levels and triggers alerts when thresholds are exceeded:
 
 - OpenWeatherMap API
 - World Air Quality Index Project API
-- Custom CSV uploads
 
 ## 🧪 Testing
 
